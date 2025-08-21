@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí  
 - 📖 **Inglés (lectura):** 70% | 🎧 **Inglés (audición):** 60%  
 - 💻 **Sistemas Operativos:** Windows & Linux (casi cualquier distro)  
-- 🧠 **Áreas de interés:** Redes, Inteligencia Artificial, Electrónica y Data  
+- 🧠 **Áreas de interés:** Redes, Inteligencia Artificial y Data  
 
 ---
 
