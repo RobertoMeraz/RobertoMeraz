@@ -65,8 +65,3 @@
 - 📧 **roberto.meraz91@uabc.edu.mx**  
 - 💻 Siempre abierto a colaborar en proyectos de redes, IA y data  
 
----
-
-<div align="center">
-  <em>✨ “Siempre aprendiendo, siempre mejorando” ✨</em>
-</div>
